@@ -1,0 +1,43 @@
+
+:root {
+    --maxWidth: 15vw;
+}
+.qr-container {
+    width: 295px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: var(--white);
+    box-shadow: 0 0 10px lightgrey;
+    padding: 15px 10px;
+}
+
+.qr-image {
+    max-width: calc(100% - 20px);
+    border-radius: 15px;
+}
+
+.text-container {
+    max-width: calc(100% - 20px);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 10px auto;
+    padding: 0 20px;
+}
+
+.text-container * {
+    margin: 10px 0;
+    padding: 0 10px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: var(--darkBlue);
+}
+
+.description {
+    color: var(--grayishBlue);
+}
