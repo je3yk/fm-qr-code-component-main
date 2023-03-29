@@ -3,8 +3,8 @@
   "name": "QR Code Component (FM challenge)",
   "icons": [
     {
-      "src": "favicon-32x32.ico",
-      "sizes": "32x326",
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
       "type": "image/png"
     }
   ],
