@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fm-qr-code-component-main/static/css/main.d508148c.css",
+    "main.js": "/fm-qr-code-component-main/static/js/main.b6f54c96.js",
+    "index.html": "/fm-qr-code-component-main/index.html",
+    "main.d508148c.css.map": "/fm-qr-code-component-main/static/css/main.d508148c.css.map",
+    "main.b6f54c96.js.map": "/fm-qr-code-component-main/static/js/main.b6f54c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d508148c.css",
+    "static/js/main.b6f54c96.js"
+  ]
+}
