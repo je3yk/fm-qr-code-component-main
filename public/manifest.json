@@ -1,9 +1,9 @@
 {
-  "short_name": "qr-code-component",
-  "name": "QR Code Component (FM challenge)",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon-32x32.png",
+      "src": "favicon-fm.png",
       "sizes": "32x32",
       "type": "image/png"
     }

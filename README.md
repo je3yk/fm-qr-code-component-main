@@ -20,8 +20,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Continued development](#continued-development)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 The challenge was to create simply component that displays the picture with qr code and some additional text next to it.
