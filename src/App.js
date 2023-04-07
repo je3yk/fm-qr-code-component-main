@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import QrCodeComponent from './components/QrCodeComponent';
 
 import qrCodeImage from './images/image-qr-code.png';

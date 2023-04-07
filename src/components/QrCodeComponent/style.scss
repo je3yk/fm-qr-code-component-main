@@ -1,0 +1,41 @@
+@use 'src/colors';
+
+.qr-container {
+    width: 295px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: colors.$white;
+    box-shadow: 0 0 10px colors.$darkBlue;
+    padding: 15px 10px;
+    
+    img {
+        max-width: calc(100% - 20px);
+        border-radius: 15px;
+    }
+
+    .text-container {
+        max-width: calc(100% - 20px);
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-around;
+        margin: 10px auto;
+        padding: 0 20px;
+    }
+    
+    .text-container * {
+        margin: 10px 0;
+        padding: 0 10px;
+    }
+
+    .title {
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 0.03em;
+        color: colors.$darkBlue;
+    }
+    
+    .description {
+        color: colors.$grayishBlue;
+    }
+}

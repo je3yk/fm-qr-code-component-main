@@ -1,6 +1,8 @@
+@use 'colors';
+
 .App {
   text-align: center;
-  background-color: var(--lightGray);
+  background-color: colors.$lightGray;
   height: 100vh;
   display: flex;
   justify-content: center;
